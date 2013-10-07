@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace BaberSnake
+namespace EasySnake
 {
     public class Produce_Racing:Tuner.Singleton<Produce_Racing>,Tuner.Procedure.IProcedure
     {
